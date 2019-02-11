@@ -1,7 +1,9 @@
 # Machine Learning in the Environmental Sciences
 
 University of Alaska MAYMester
+
 May 6 - 17, 2019
+
 https://www.uaf.edu/summer/sessions/maymester/
 
 
