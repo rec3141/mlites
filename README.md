@@ -45,7 +45,7 @@ Upon completion of the course students will be able to:
 
 Instructional Methods: The in-class course time will consist of lectures on concepts and algorithms, in addition to a group project where students will gain hands-on experience working with real datasets.
 
-Tentative Course Calendar:
+*Very Tentative* Course Calendar:
 
 ```
 Date	Topic	Homework
