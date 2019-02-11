@@ -1,19 +1,16 @@
-# Machine Learning in the Environmental Sciences
+# Machine Learning in the Environmental Sciences (MSL F695)
 
-University of Alaska Fairbanks
+Sign up here! https://www.alaska.edu/coursefinder/framework/index.xml?CRN=51833&term=201902
 
-MAYMester: May 6 - 17, 2019
+University of Alaska Fairbanks MAYMester: May 6 - 17, 2019
 
 https://www.uaf.edu/summer/sessions/maymester/
 
-
-MSL F695 (3+0)
-
-Prerequisites: Introductory course in programming (CS103, CS201, CS405) or computational data analysis (BIOL680,  GEOS436, GEOS636, MSL464, MSL604, MSL627, MSL631, MSL632) or statistics (STAT200, STAT401, STAT641) or graduate standing or by permission of the instructor. (3+0)
-
-Meeting time: 9:00am – 1:00pm, M-F, plus project work
+Recent advances in computer power have enabled data scientists to analyze ever-larger datasets using machine learning and artificial intelligence techniques, making the ability to process these datasets an integral training requirement for the next generation of environmental scientists. This course will focus on training students in environmental fields such as fisheries, oceanography, geography, hydrology, and wildlife biology in the use of modern computational tools for machine learning applications.
 
 Instructor: Eric Collins (recollins alaska edu)
+
+Meeting time: M-F 9:00am – 1:00pm
 
 Textbook: None. Readings will be taken from the primary literature.
 
@@ -22,20 +19,13 @@ Supplemental Reading:
 
 Supplies: Internet-enabled portable computer is required. A dozen laptops are available from the CFOS academic office, please contact the instructor for assistance.
 
-Course Content: Recent advances in computer power have enabled data scientists to analyze ever-larger datasets using machine learning and artificial intelligence techniques, making the ability to process these datasets an integral training requirement for the next generation of environmental scientists. This course will focus on training students in environmental fields such as fisheries, oceanography, geography, hydrology, and wildlife biology in the use of modern computational tools for machine learning applications.
-
 Expected Proficiencies: Undergraduate-level understanding of basic statistics and programming in at least one language (preferably Python, R, or MATLAB).
 
-Catalog Description: 
-MSL F695 Machine Learning in the Environmental Sciences
-3 Credits   Special Topics
-
-Introduces the concepts of machine learning in the context of the environmental sciences e.g. fisheries, oceanography, geography, hydrology, wildlife biology, etc. using free, open-source software. Covers methods in supervised and unsupervised learning in problems related to classification, regression, and dimensional reduction drawn from environmentally relevant datasets. Prerequisites: CS103 or CS201 or CS405 or BIOL680 or GEOS436 or GEOS636 or MSL464 or MSL604 or MSL627 or MSL631 or MSL632 or STAT200 or STAT401 or STAT641 or graduate standing or by permission of the instructor. (3+0)
+Prerequisites: Introductory course in programming (CS103, CS201, CS405) or computational data analysis (BIOL680,  GEOS436, GEOS636, MSL464, MSL604, MSL627, MSL631, MSL632) or statistics (STAT200, STAT401, STAT641) or graduate standing or by permission of the instructor. (3+0)
 
 Course Goals: The goal of this course is to introduce modern computational tools in machine learning to students in environmental fields like fisheries, oceanography, geography, hydrology, and wildlife biology.
 
-Student Learning Outcomes:
-Upon completion of the course students will be able to:
+Student Learning Outcomes -- Upon completion of the course students will be able to:
 
 1.	Use a command-line environment to conduct routine tasks on the computer (e.g. the bash shell).
 2.	Write simple scripts using at least one machine learning toolkit (e.g. scikit-learn or TensorFlow).
@@ -72,6 +62,7 @@ A Group Project (40%, 400 points) will be required. The product will be organize
 The Final Presentation (10%, 100 points) will be based on the Group Project; students are expected to explain their findings in a professional manner in a 15-minute conference-style presentation on the last day.
 Course Policies: Students are expected to read the relevant material prior to the lectures and attend class in a timely manner. Active participation is expected. The use of cell phones or other electronic communications (e.g. email, twitter, facebook etc.) during class is considered inappropriate. Students should be familiar with the UAF Honor Code (https://www.uaf.edu/catalog/catalog_00-01/undergrad/regs3.html). Cheating and plagiarism will not be tolerated. Any student found cheating during the exams or to have plagiarized or fabricated statements (including passages from web pages) will receive an automatic 'F' for the class.
 
+```
 The following non-curved grading system will be used for the entire course: 
 A+ >95%
 A  >90 – 95%
@@ -86,6 +77,7 @@ C− >60 – 63%
 Grades below C− will not count toward the major or minor degree requirements
 D  50 – 60% 
 F  <50
+```
 
 Support Services: At UAF, the Office of Disability Services (203 Whitaker Bldg; 474-5655; TTY 474-5655; fydso@uaf.edu, http://www.uaf.edu/disability) ensures that students with physical or learning disabilities have equal access to the campus and course materials. If you have specialized needs, please contact this office or the instructor to make arrangements. The UAF Writing Center (801 Gruening Bldg) is available for helping students in brainstorming and generating topics, organizing ideas, developing research strategies, the use of citations, and editing for clarity and correctness. Contact them at http://www.uaf.edu/english/writing-center.
 Student protections and services statement: Student protections and services statement: Every qualified student is welcome in my classroom. As needed, I am happy to work with you, disability services, veterans' services, rural student services, etc to find reasonable accommodations. Students at this university are protected against sexual harassment and discrimination (Title IX), and minors have additional protections. For more information on your rights as a student and the resources available to you to resolve problems, please go the following site: www.uaf.edu/handbook/
