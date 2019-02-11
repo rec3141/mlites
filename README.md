@@ -37,16 +37,19 @@ Course Goals: The goal of this course is to introduce modern computational tools
 
 Student Learning Outcomes:
 Upon completion of the course students will be able to:
+
 1.	Use a command-line environment to conduct routine tasks on the computer (e.g. the bash shell).
 2.	Write simple scripts using at least one machine learning toolkit (e.g. scikit-learn or TensorFlow).
 3.	Find, download, install, and use software and datasets from public repositories (e.g. from Github or Google Earth Engine).
 4.	Apply appropriate concepts and algorithms in machine learning to real world problems (e.g. supervised learning, classification).
 5.	Analyze a real environmental sciences dataset using machine learning.
 
+
 Instructional Methods: The in-class course time will consist of lectures on concepts and algorithms, in addition to a group project where students will gain hands-on experience working with real datasets.
 
 Tentative Course Calendar:
 
+```
 Date	Topic	Homework
 Day 1	Introduction and Basic Concepts	HW1 assigned: Intro to Python and NumPy 
 Day 2	Linear and Logistic Regression	HW1 due
@@ -57,8 +60,8 @@ Day 6	Data Selection and Factoring 	HW3 due
 Day 7	Model Selection and Optimization	HW4 assigned: Intro to TensorFlow
 Day 8	Case Study: Image Classification	HW4 due
 Day 9	Case Study: Prediction	
-Day 10Conclusions and Group Presentations	
-
+Day 10 Conclusions and Group Presentations	
+```
 
 Evaluation: Students will be evaluated based on class participation, homework, a group project, and a final presentation. Grading is absolute.
 
