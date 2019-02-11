@@ -1,8 +1,8 @@
 # Machine Learning in the Environmental Sciences
 
-University of Alaska MAYMester
+University of Alaska Fairbanks
 
-May 6 - 17, 2019
+MAYMester: May 6 - 17, 2019
 
 https://www.uaf.edu/summer/sessions/maymester/
 
@@ -13,8 +13,7 @@ Prerequisites: Introductory course in programming (CS103, CS201, CS405) or compu
 
 Meeting time: 9:00am – 1:00pm, M-F, plus project work
 
-Instructor: Eric Collins
-Email: r e collins@alaska.edu
+Instructor: Eric Collins (recollins alaska edu)
 
 Textbook: None. Readings will be taken from the primary literature.
 
@@ -23,14 +22,14 @@ Supplemental Reading:
 
 Supplies: Internet-enabled portable computer is required. A dozen laptops are available from the CFOS academic office, please contact the instructor for assistance.
 
-Course Content: Recent advances in computer power have enabled data scientists to analyze ever-larger datasets using machine learning and artificial intelligence techniques, 
-making the ability to process these datasets an integral training requirement for the next generation of environmental scientists. This course will focus on training students in environmental fields such as fisheries, oceanography, geography, hydrology, and wildlife biology in the use of modern computational tools for machine learning applications.
+Course Content: Recent advances in computer power have enabled data scientists to analyze ever-larger datasets using machine learning and artificial intelligence techniques, making the ability to process these datasets an integral training requirement for the next generation of environmental scientists. This course will focus on training students in environmental fields such as fisheries, oceanography, geography, hydrology, and wildlife biology in the use of modern computational tools for machine learning applications.
 
 Expected Proficiencies: Undergraduate-level understanding of basic statistics and programming in at least one language (preferably Python, R, or MATLAB).
 
 Catalog Description: 
 MSL F695 Machine Learning in the Environmental Sciences
 3 Credits   Special Topics
+
 Introduces the concepts of machine learning in the context of the environmental sciences e.g. fisheries, oceanography, geography, hydrology, wildlife biology, etc. using free, open-source software. Covers methods in supervised and unsupervised learning in problems related to classification, regression, and dimensional reduction drawn from environmentally relevant datasets. Prerequisites: CS103 or CS201 or CS405 or BIOL680 or GEOS436 or GEOS636 or MSL464 or MSL604 or MSL627 or MSL631 or MSL632 or STAT200 or STAT401 or STAT641 or graduate standing or by permission of the instructor. (3+0)
 
 Course Goals: The goal of this course is to introduce modern computational tools in machine learning to students in environmental fields like fisheries, oceanography, geography, hydrology, and wildlife biology.
@@ -43,7 +42,6 @@ Upon completion of the course students will be able to:
 3.	Find, download, install, and use software and datasets from public repositories (e.g. from Github or Google Earth Engine).
 4.	Apply appropriate concepts and algorithms in machine learning to real world problems (e.g. supervised learning, classification).
 5.	Analyze a real environmental sciences dataset using machine learning.
-
 
 Instructional Methods: The in-class course time will consist of lectures on concepts and algorithms, in addition to a group project where students will gain hands-on experience working with real datasets.
 
