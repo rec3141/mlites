@@ -1,10 +1,10 @@
 # Machine Learning in the Environmental Sciences (MSL F695)
 
-Sign up here! https://www.alaska.edu/coursefinder/framework/index.xml?CRN=51833&term=201902
-
 University of Alaska Fairbanks MAYMester: May 6 - 17, 2019
 
+Sign up details here!
 https://www.uaf.edu/summer/sessions/maymester/
+https://www.alaska.edu/coursefinder/framework/index.xml?CRN=51833&term=201902
 
 This is an intensive 10 day course on the theory and practice of Machine Learning as applied to environmental sciences such as fisheries, oceanography, environmental chemistry, geography, hydrology, wildlife biology, ecology, anthropology, demography, etc. Recent advances in computer power have enabled data scientists to analyze ever-larger datasets using machine learning and artificial intelligence techniques, making the ability to process these datasets an integral training requirement for the next generation of environmental scientists. Through hands on programming, this course will focus on training students in environmental fields in the use of modern computational tools for machine learning applications. Students will work on group projects and may bring their own data to use as examples in homework exercises.
 
