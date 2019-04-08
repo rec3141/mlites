@@ -1,4 +1,6 @@
-# Machine Learning in the Environmental Sciences (MSL F695)
+# MSL F695 Machine Learning in the Environmental Sciences
+
+![Machine Learning](MLITES-poster.jpg "Machine Learning")
 
 University of Alaska Fairbanks MAYMester: May 6 - 17, 2019
 
